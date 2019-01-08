@@ -5,7 +5,7 @@ terraform {
     encrypt = "true"
     region = "us-east-1"
     dynamodb_table = "terraformlockstate"
-    profile = "personal"
+#    profile = "personal"
     }
 
     versioning {
